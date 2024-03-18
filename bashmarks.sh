@@ -111,7 +111,7 @@ function check_help {
 }
 
 # list bookmarks with dirnam
-function l {
+function al {
     check_help $1
     source $SDIRS
         
